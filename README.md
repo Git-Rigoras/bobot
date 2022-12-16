@@ -1,0 +1,2 @@
+# bobot
+A discord bot
